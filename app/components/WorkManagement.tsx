@@ -6,7 +6,7 @@ import WorkTogetherImage from "../assets/Work Together Image.png";
 const Main = () => {
   return (
     <>
-      <section className="max-w-screen-xl mx-auto px-6 lg:px-16 py-8">
+      <section className="max-w-screen-xl mx-auto px-6 lg:px-[32px] py-[140px]">
         {/* First Section */}
         <div className="flex flex-col lg:flex-row items-center lg:items-start gap-12">
           <div className="flex flex-col lg:w-1/2 text-center lg:text-left">
