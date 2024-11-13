@@ -12,7 +12,7 @@ const Hero = () => {
             </p>
           </div>
         </div>
-        <div className="w-[824px] h-[549px] bg-[#C4DEFD]"></div>
+        <div className="w-[685px] h-[456.39px] gap-[4px] bg-[#C4DEFD]"></div>
       </div>
     </>
   );
