@@ -8,10 +8,10 @@ export default function Home() {
   return (
     <div>
       <Navbar />
-      <Hero />
+      {/* <Hero />
       <Main />
       <UseAsExtension />
-      <CustomiseItToYourNeed />
+      <CustomiseItToYourNeed /> */}
     </div>
   );
 }
