@@ -27,7 +27,7 @@ const Navbar = () => {
           <li>Resources</li>
           <li>Pricing</li>
         </ul>
-        <button className="px-10 py-4 rounded-lg bg-[#FFE492]">Login</button>
+        <button className="px-7 py-2 rounded-lg bg-[#FFE492] md:ml-4">Login</button>
       </div>
 
       {/* Mobile Menu Toggle */}
@@ -54,3 +54,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
